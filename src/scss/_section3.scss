@@ -1,0 +1,10 @@
+.container{
+    text-align: center;
+    .box-top{
+        display: flex;
+        justify-content: space-between;
+    }
+    h2{
+        font-family: $font-courgette;
+    }
+}

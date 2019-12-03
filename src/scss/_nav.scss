@@ -1,0 +1,25 @@
+.active{
+    background-color: red;
+    color:#fff;
+}
+nav{
+    z-index: 9;
+    width: 100%;
+    position: absolute;
+
+
+ }
+ .navBar{
+    display: flex;
+    justify-content:  center;
+    align-items: center;
+
+    a:hover{
+        color: red;
+    }
+
+ }
+.nav{
+    border-top: white solid 1px;
+    border-bottom: white solid 1px;
+}

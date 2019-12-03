@@ -1,0 +1,26 @@
+
+.d-block{
+    filter: brightness(0.3);
+}
+#carouselExampleCaptions{
+    position: relative;
+}
+.carousel-caption{
+    font-family: font-courgette;
+    top: 250px;
+    text-align: center;
+    p{
+        font-size: 30px;
+        
+    }
+    .btn{
+        border-radius: 15px;
+        margin-right: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .border{
+        width: 100%;  
+        background-image: url(../../images/bottom_decoration_img.png);
+      
+    }
+    }

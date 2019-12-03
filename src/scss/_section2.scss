@@ -1,0 +1,24 @@
+.container2{
+    background-image: url(../../images/footer_background.jpg);
+    .titreChef{
+        text-align: center;
+        font-family: $font-courgette;
+        color: white;
+    }
+    .row{
+        .col-3{
+            text-align: center;
+            img{
+                width: 200px;
+                height: 300px;
+                border-bottom:solid white 0.4px;
+            
+            }
+            p{
+                color: white;
+            }
+        }
+    }
+
+
+}

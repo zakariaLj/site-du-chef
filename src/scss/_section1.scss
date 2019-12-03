@@ -1,0 +1,56 @@
+section{
+
+    .container{
+        .boxTop{
+            display: flex;
+            justify-content: space-between;
+            padding: Opx;
+        }
+        .story{
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            p{
+                text-align: center;
+                width: 500px;
+                
+            }
+            }
+           
+            .menuList{
+                display: flex;
+                align-items: center;
+                flex-direction: column;
+            }
+            nav{
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                text-align: center;
+            }
+            a{
+                color:grey;
+            }
+            .imagebreak{
+                border-radius: 100px;
+                width: 60px;
+                height: 60px;
+            }
+            .col-10{
+                display: flex;
+                justify-content: center;
+                li{
+                    display: flex;
+                    justify-content: space-around ;
+                    padding: 20px;
+                    margin: 10px;
+                    border-bottom-style: dashed ;
+                    img{
+                        
+                    }
+                    
+                }
+            }
+         
+        }
+    }

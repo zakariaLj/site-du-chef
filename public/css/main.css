@@ -1,0 +1,211 @@
+@import url(c:\Users\zakar\Desktop\coding school\Exercice\SiteDuChefs\node_modules\bootstrap\dist\css\bootstrap.css);
+.d-block {
+  -webkit-filter: brightness(0.3);
+          filter: brightness(0.3);
+}
+
+#carouselExampleCaptions {
+  position: relative;
+}
+
+.carousel-caption {
+  font-family: font-courgette;
+  top: 250px;
+  text-align: center;
+}
+
+.carousel-caption p {
+  font-size: 30px;
+}
+
+.carousel-caption .btn {
+  border-radius: 15px;
+  margin-right: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.carousel-caption .border {
+  width: 100%;
+  background-image: url(../../images/bottom_decoration_img.png);
+}
+
+li {
+  list-style: none;
+}
+
+body {
+  background-image: url(../../images/main_bg.jpg);
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #fff;
+}
+
+header {
+  color: #fff;
+}
+
+.container {
+  background-color: #fff;
+  margin: 50px;
+}
+
+.active {
+  background-color: red;
+  color: #fff;
+}
+
+nav {
+  z-index: 9;
+  width: 100%;
+  position: absolute;
+}
+
+.navBar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.navBar a:hover {
+  color: red;
+}
+
+.nav {
+  border-top: white solid 1px;
+  border-bottom: white solid 1px;
+}
+
+section .container .boxTop {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: Opx;
+}
+
+section .container .story {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+section .container .story p {
+  text-align: center;
+  width: 500px;
+}
+
+section .container .menuList {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+section .container nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+}
+
+section .container a {
+  color: grey;
+}
+
+section .container .imagebreak {
+  border-radius: 100px;
+  width: 60px;
+  height: 60px;
+}
+
+section .container .col-10 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+section .container .col-10 li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  padding: 20px;
+  margin: 10px;
+  border-bottom-style: dashed;
+}
+
+.container2 {
+  background-image: url(../../images/footer_background.jpg);
+}
+
+.container2 .titreChef {
+  text-align: center;
+  font-family: "Courgette", cursive;
+  color: white;
+}
+
+.container2 .row .col-3 {
+  text-align: center;
+}
+
+.container2 .row .col-3 img {
+  width: 200px;
+  height: 300px;
+  border-bottom: solid white 0.4px;
+}
+
+.container2 .row .col-3 p {
+  color: white;
+}
+
+.container {
+  text-align: center;
+}
+
+.container .box-top {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.container h2 {
+  font-family: "Courgette", cursive;
+}
+/*# sourceMappingURL=main.css.map */
